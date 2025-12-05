@@ -4,15 +4,25 @@
   
  <div align="center"> 
   
- ![License](https://img.shields.io/badge/license-MIT%20License-blue.svg?style=flat-square) ![Language](https://img.shields.io/github/languages/top/alex1dev0/pinch-polygon?style=flat-square) ![Repo Size](https://img.shields.io/github/repo-size/alex1dev0/pinch-polygon?style=flat-square) ![Issues](https://img.shields.io/github/issues/alex1dev0/pinch-polygon?style=flat-square) ![Stars](https://img.shields.io/github/stars/alex1dev0/pinch-polygon?style=flat-square)   
+ <img src="https://img.shields.io/badge/license-MIT%20License-blue.svg?style=flat-square" alt="License" />
+ <img src="https://img.shields.io/github/languages/top/alex1dev0/pinch-polygon?style=flat-square" alt="Language" />
+ <img src="https://img.shields.io/github/repo-size/alex1dev0/pinch-polygon?style=flat-square" alt="Repo Size" />
+ <img src="https://img.shields.io/github/issues/alex1dev0/pinch-polygon?style=flat-square" alt="Issues" />
+ <img src="https://img.shields.io/github/stars/alex1dev0/pinch-polygon?style=flat-square" alt="Stars" />
   
  <p align="center"> 
-   *Developed with the software and tools below.* 
+   <em>Developed with the software and tools below.</em> 
  </p> 
  <p align="center"> 
-   [![Contributors](https://img.shields.io/github/contributors/alex1dev0/pinch-polygon?style=flat-square)](https://github.com/alex1dev0/pinch-polygon/graphs/contributors) 
-   [![Forks](https://img.shields.io/github/forks/alex1dev0/pinch-polygon?style=flat-square)](https://github.com/alex1dev0/pinch-polygon/network/members) 
-   [![Stars](https://img.shields.io/github/stars/alex1dev0/pinch-polygon?style=flat-square)](https://github.com/alex1dev0/pinch-polygon/stargazers) 
+   <a href="https://github.com/alex1dev0/pinch-polygon/graphs/contributors">
+     <img src="https://img.shields.io/github/contributors/alex1dev0/pinch-polygon?style=flat-square" alt="Contributors" />
+   </a>
+   <a href="https://github.com/alex1dev0/pinch-polygon/network/members">
+     <img src="https://img.shields.io/github/forks/alex1dev0/pinch-polygon?style=flat-square" alt="Forks" />
+   </a>
+   <a href="https://github.com/alex1dev0/pinch-polygon/stargazers">
+     <img src="https://img.shields.io/github/stars/alex1dev0/pinch-polygon?style=flat-square" alt="Stars" />
+   </a>
  </p> 
  </div> 
   
@@ -101,7 +111,6 @@
   
  ```text 
  ├── README.md          # Original documentation
- ├── readmebase.md      # This documentation
  ├── requirements.txt   # Python dependencies
  └── tool.py            # Main application logic
  ``` 
@@ -113,3 +122,7 @@
  ## License 
   
  MIT License 
+
+ <br>
+
+ Created by **Alex1Dev**
